@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		150,
+		180
+	],
+	"scale": 0.5,
+	"image": "BALDI"
+}
