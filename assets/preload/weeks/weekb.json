@@ -1,0 +1,58 @@
+{
+	"storyName": "You're mine",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "classroom",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Basics",
+			"baldi-happy",
+			[
+				0,
+				235,
+				0
+			]
+		],
+		[
+			"Lesson",
+			"baldi-happy",
+			[
+				0,
+				235,
+				0
+			]
+		],
+		[
+			"Dismissal",
+			"baldi",
+			[
+				0,
+				235,
+				0
+			]
+		],
+		[
+			"Piracy",
+			"paldo",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"baldi",
+		"boyfriend",
+		"girlfriend"
+	],
+	"weekName": "Baldi"
+}
