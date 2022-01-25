@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				370,
+				180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				311,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				180,
+				360
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				310,
+				320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				291,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "school/redbald",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "paldo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		33,
+		0
+	],
+	"camera_position": [
+		-420,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
