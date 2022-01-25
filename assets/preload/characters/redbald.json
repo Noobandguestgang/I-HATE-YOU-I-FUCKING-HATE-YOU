@@ -8,7 +8,7 @@
 			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"loop": true,
 			"name": "left"
 		},
 		{
