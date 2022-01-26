@@ -48,6 +48,8 @@ class CreditsState extends MusicBeatState
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
+			['Porter'],
+			['Noob and Guest gang',		    'nooband',		    'Porter',	 'https://youtube.com/channel/UCQBqqTBnOyLf35UoZUd0R0Q',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
