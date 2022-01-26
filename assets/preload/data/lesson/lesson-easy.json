@@ -4736,7 +4736,7 @@
 		],
 		"gfVersion": "gf-chair",
 		"events": [],
-		"player3": null,
+		"player3": "gf-chair",
 		"song": "Lesson",
 		"needsVoices": true,
 		"stage": "classroom",
