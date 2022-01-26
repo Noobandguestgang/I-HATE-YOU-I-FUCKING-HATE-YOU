@@ -6222,7 +6222,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": null,
+		"player3": "none",
 		"song": "Piracy",
 		"stage": "unknownfile",
 		"needsVoices": true,
