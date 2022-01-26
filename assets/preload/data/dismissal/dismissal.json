@@ -8503,7 +8503,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": null,
+		"player3": "gf-chair",
 		"song": "Dismissal",
 		"stage": "classroom",
 		"needsVoices": true,
